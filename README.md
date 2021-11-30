@@ -4,5 +4,5 @@
 ## Project 2 is about numerical integration 
 ## Project 3 is about Newton-Method
 ## Reference:
-##  Gander W. Gander M.J. Kwok F.  Scientific Computing—An Introduction Using Maple and MATLAB.
-##  Timothy Sauer. Numerical Analysis.
+##  Gander W. Gander M.J. Kwok F. 2014 Scientific Computing—An Introduction Using Maple and MATLAB. Springer
+##  Timothy Sauer. 2018 Numerical Analysis.Pearson
